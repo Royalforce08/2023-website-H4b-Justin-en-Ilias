@@ -7,21 +7,23 @@ header {
    font-family: calibri;
    padding-left: 50%;
    padding-top: 15px;
-   font-size: 50pt;
+   font-size: 40pt;
 }
 
 #sidebar {
-   width: 75px;
+   width: 100px;
    height: 900px;
    margin: auto;
    background-color: #AF5ACD; 
    font-family: arial;
    color: #000000;
+   float: left;
 }
 
 #picture {
    width: 400px;
    height: 200px;
+   float: left;
 }
 
 article {

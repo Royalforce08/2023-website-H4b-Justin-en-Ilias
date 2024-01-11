@@ -20,7 +20,7 @@ header {
    float: left;
 }
 
-#picture {
+img {
    width: 400px;
    height: 200px;
    float: left;
@@ -31,6 +31,7 @@ article {
    width: 400px;
    border: 10px solid black;
    float: right;
+   font-size: 28px;
 }
 
 

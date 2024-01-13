@@ -83,8 +83,23 @@ transition: o,5s;
   color:#ffffff;
 
 }
-
-
+.hero-btn{
+  display:inline-block;
+  text-decoration: none;
+  color:#000000;
+  border:1px solid #000000;
+  padding:10px 30px;
+  font-size: 15px;
+  position: relative;
+  background: transparent;
+  cursor: pointer;
+}
+.hero-btn:hover{
+  border:1px solid #AF5ACD;
+  background: #AF5ACD;
+  transition: 0,5s;
+  
+}
 
 
 

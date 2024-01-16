@@ -1,18 +1,18 @@
+
 header { 
-   width: 100%;
+   width: 60%;
    height: 60px;
    background-color: #000000;
-   margin: auto;
    color:#ffffff;
    font-family: calibri;
-   padding-left: 50%;
+   padding-left: 40%;
    padding-top: 15px;
    font-size: 40pt;
 }
 
 #sidebar {
    width: 100px;
-   height: 900px;
+   height: 250px;
    margin: auto;
    background-color: #AF5ACD; 
    font-family: arial;

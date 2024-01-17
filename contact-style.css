@@ -24,7 +24,7 @@ article {
     width: 350px;
     border: 10px black;
     float: right;
-    font-size: 23px;
+    font-size: 25px;
 }
 
     img {
@@ -32,3 +32,10 @@ article {
         height: 400px;
         float: right;
     }
+article-2{
+    height: 150px;
+    width: 350px;
+    border: 10px black;
+    float: right;
+    font-size: 25px;
+}

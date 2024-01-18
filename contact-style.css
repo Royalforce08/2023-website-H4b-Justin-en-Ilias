@@ -19,7 +19,6 @@ padding-left: 40%;
 padding-top: 50px;
 }
  
- 
 article {
     height: 150px;
     width: 350px;
@@ -28,19 +27,13 @@ article {
     font-size: 25px;
 }
 
-    img {
+img {
         width: 500px;
-        height: 400px;
+        height: 500px;
         float: right;
     }
+
 article-2{
-    height: 150px;
-    width: 350px;
-    border: 10px black;
-    float: right;
-    font-size: 25px;
-}
-article-3 {
     height: 150px;
     width: 350px;
     border: 10px black;

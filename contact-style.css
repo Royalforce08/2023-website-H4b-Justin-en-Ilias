@@ -1,4 +1,5 @@
 
+
 nav {
     width: 110px;
     height: 275px;
@@ -33,6 +34,13 @@ article {
         float: right;
     }
 article-2{
+    height: 150px;
+    width: 350px;
+    border: 10px black;
+    float: right;
+    font-size: 25px;
+}
+article-3 {
     height: 150px;
     width: 350px;
     border: 10px black;

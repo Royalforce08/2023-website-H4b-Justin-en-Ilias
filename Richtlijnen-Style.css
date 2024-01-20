@@ -10,7 +10,7 @@
   .header{
     min-height: 100vh;
     width: 100%;
-    background-image: liniear-gradient(rgba(4,9,30,0.7)) url("download.jpeg images");
+    background-image: liniear-gradient(rgba(4,9,30,0.7)) url("ad89ffb4-f5e7-48ff-aed5-bca843a8bcc5_thumb1024.jpg");
 }
 .text-box{
   width: 90%;
@@ -60,6 +60,7 @@
 .course-col{
   box-shadow: 0 0 25px 0 rgba(0,0,0,0,2);
 }
+
 
 
 
